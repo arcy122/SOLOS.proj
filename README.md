@@ -1,0 +1,2 @@
+# SOLOS.proj
+SOLOS
